@@ -1,7 +1,7 @@
 #include <iostream>
 int main(){
-    int n,s,p;
-    s=0;
+    int n,p;
+    double s=0;
     p=0;
     double a=0.0;
     //n is the number put in, s is the sum, a is the average, p is the number of loop;
